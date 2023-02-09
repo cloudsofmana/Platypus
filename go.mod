@@ -16,7 +16,7 @@ require (
 	github.com/gin-contrib/cors v1.3.1
 	github.com/gin-contrib/sessions v0.0.5
 	github.com/gin-contrib/static v0.0.1
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-openapi/errors v0.19.3 // indirect
 	github.com/go-openapi/strfmt v0.19.4 // indirect
 	github.com/golang/protobuf v1.5.1 // indirect
