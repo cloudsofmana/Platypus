@@ -41,12 +41,10 @@ require (
 	github.com/tidwall/pretty v1.0.1 // indirect
 	github.com/ulikunitz/xz v0.5.10 // indirect
 	github.com/vbauerster/mpb/v6 v6.0.4
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97 // indirect
-	golang.org/x/mod v0.4.2
-	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4 // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20210313182246-cd4f82c27b84 // indirect
-	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b
-	golang.org/x/text v0.3.6 // indirect
+	golang.org/x/term v0.5.0
 	google.golang.org/appengine v1.6.7 // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/olahol/melody.v1 v1.0.0-20170518105555-d52139073376
